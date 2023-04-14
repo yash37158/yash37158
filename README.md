@@ -39,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## Reach out to me ☕️!
+## Reach out to me ☕️ !
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-sharma-7b688a19b/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" ></a>
@@ -47,11 +47,8 @@
   <a href="mailto:yashsharma37158@gmail.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
 </p>
 
-## 📍 Github Stats:
+##  Github Stats 📍:
 <table columns=2>
-  <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=yash37158&show_icons=true&theme=dark)](https://github.com/yash37158/github-readme-stats"></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash37158&show_icons=true&theme=dark)](https://github.com/yash/github-readme-stats"></td>
   </tr><tr>
   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=alphaX86&theme=gruvbox&no-bg=true"></td>
   <td><img src="https://github-profile-trophy.vercel.app/?username=alphaX86&theme=gruvbox&row=1&no-frame=true&no-bg=true" width="85%"></td>

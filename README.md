@@ -4,8 +4,7 @@
 - 👋 Hi, I’m yash a CS student from Amity University, Mumbai.
 - 👀 I’m interested in Full-Stack Web Development and  Android development(kotlin).
 - 🌱 I’m currently learning microservices and the cloud native ecosystem. 
-- 💞️ I’m looking to collaborate on MERN Stack and Android Development
-- 🚀 https://yash-sharma.netlify.app
+- 💞️ I’m looking to collaborate on cloud-native ecosystems
 
 ## 💻 Languages and Frameworks
 ![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)

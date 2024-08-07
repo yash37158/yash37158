@@ -1,4 +1,4 @@
-![profile-banner](https://user-images.githubusercontent.com/68152307/119128269-11e1e180-ba53-11eb-8ff0-87d87936d7ad.png)
+
 
 ## Who am I ? 🤔
 - 👋 Hi, I’m yash a CS student from Amity University, Mumbai.

@@ -1,10 +1,10 @@
 
 
 ## Who am I ? 🤔
-- 👋 Hi, I’m yash a CS student from Amity University, Mumbai.
-- 👀 I’m interested in Full-Stack Web Development and  Android development(kotlin).
+- 👋 Hi, I’m Yash Sharma a CS student from Amity University, Mumbai.
+- 👀 I’m interested in Full-Stack Web Development.
 - 🌱 I’m currently learning microservices and the cloud native ecosystem. 
-- 💞️ I’m currently learning Golang.
+- 💞️ I’m currently exploring Golang.
 ## 💻 Languages and Frameworks
 ![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -37,13 +37,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## Reach out to me ☕️ !
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-sharma-7b688a19b/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" ></a>
-  <a href="https://twitter.com/YashSha49433608?t=cMDZ7jorLeIuHWvr6K6D6Q&s=09"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" ></a>
-  <a href="mailto:yashsharma37158@gmail.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
-</p>
 
 ##  Github Stats 📍:
 <table columns=2>
@@ -61,6 +54,14 @@
 <td><a href="https://meshery.layer5.io/user/53ccd221-c66b-4815-93df-397013b0200a?tab=badges"><img width="150" height="200" src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor" /></a></td>
 </tr>
 </table>
+
+## Reach out to me ☕️ !
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-sharma-7b688a19b/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" ></a>
+  <a href="https://twitter.com/YashSha49433608?t=cMDZ7jorLeIuHWvr6K6D6Q&s=09"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" ></a>
+  <a href="mailto:yashsharma37158@gmail.com"><img src="https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail" ></a>
+</p>
 
 
 

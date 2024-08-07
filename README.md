@@ -53,4 +53,14 @@
   </tr>
 </table>
 
+##  Badges 🏅:
+<table columns=3>
+<tr>
+<td><a href="https://meshery.layer5.io/user/53ccd221-c66b-4815-93df-397013b0200a?tab=badges"><img width="150" height="200" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a></td>
+<td><a href="https://meshery.layer5.io/user/53ccd221-c66b-4815-93df-397013b0200a?tab=badges"><img width="150" height="200" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery" /></a></td>
+<td><a href="https://meshery.layer5.io/user/53ccd221-c66b-4815-93df-397013b0200a?tab=badges"><img width="150" height="200" src="https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt="Continuous Contributor" /></a></td>
+</tr>
+</table>
+
+
 

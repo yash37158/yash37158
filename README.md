@@ -1,10 +1,13 @@
 
 
 ## Who am I ? 🤔
-- 👋 Hi, I’m Yash Sharma a CS student from Amity University, Mumbai.
+- 👋 Hi, I’m Yash Sharma
 - 👀 I’m interested in Full-Stack Web Development.
 - 🌱 I’m currently learning microservices and the cloud native ecosystem. 
 - 💞️ I’m currently exploring Golang.
+
+![](https://komarev.com/ghpvc/?username=yash37158)
+
 ## 💻 Languages and Frameworks
 ![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
